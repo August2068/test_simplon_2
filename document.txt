@@ -1,4 +1,4 @@
-1. Movies
+1. Movie
 -The Green Knight by David Lowery
 -Castle in the Sky by Hayao Miyazaki
 -Before trilogy by Richard Linklater
@@ -6,3 +6,8 @@
 -Blade Runner by Ridley Scott
 
 2. Series
+-What we do in the shadows by Jemaine Clement
+-This is us by Dan Fogelman
+-Fleabag by Phoebe Waller-Bridge
+-Samurai Champloo by Shin'ichirou Watanabe
+-Love, Death and Robots by David Fincher
